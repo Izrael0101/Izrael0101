@@ -20,18 +20,16 @@
 
 ---
 
-### About Me :
-I am a Full Stack Developer from Nuevo León, México.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+## Hi 👋 I am Israel! 
+I am a FullStack Developer at [SMX](#). 
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 🌐 Visit my [porfolio website](https://iramirezdevs.com/) for complete background and contact.
+- ✍️ [Download CV](https://www.iramirezdevs.com/assets/files/CV_en.pdf/)
 
 ---
-
-### :hammer_and_wrench: Languages and Tools :
-
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=pr2tik1&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true" width = 400>
+</p>
 

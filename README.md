@@ -10,7 +10,7 @@
   </div>
   <img src="https://iramirezdevs.com/assets/img/status-active-success.svg" alt=""/>
   <h1>
-    Bienvenido
+    Welcome
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>

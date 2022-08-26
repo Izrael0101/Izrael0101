@@ -25,7 +25,7 @@
 I am a FullStack Developer at [SMX](#). 
 
 - 🌐 Visit my [porfolio website](https://iramirezdevs.com/) for complete background and contact.
-- ✍️ [Download CV](https://www.iramirezdevs.com/assets/files/CV_en.pdf/)
+- ✍️ [Download CV](https://www.iramirezdevs.com/assets/files/CV_en.pdf)
 
 ---
 <p align = "center">

@@ -24,8 +24,8 @@
 ## Hi 👋 I am Israel! 
 I am a FullStack Developer at [SMX](#). 
 
-- 🌐 Visit my [porfolio website](https://iramirezdevs.com/) for complete background and contact.
-- ✍️ [Download CV](https://www.iramirezdevs.com/assets/files/CV_en.pdf/)
+- 🌐 Visit my <a href="http://iramirezdevs.com/" target="_blank">WebSite</a> for complete background and contact.
+- ✍️ <a href="https://www.iramirezdevs.com/assets/files/CV_en.pdf" target="_blank">Download CV</a>
 
 ---
 <p align = "center">
